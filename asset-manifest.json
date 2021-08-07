@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/customerslab/static/css/main.7067bc91.chunk.css",
+    "main.js": "/customerslab/static/js/main.849420dd.chunk.js",
+    "main.js.map": "/customerslab/static/js/main.849420dd.chunk.js.map",
+    "runtime-main.js": "/customerslab/static/js/runtime-main.a7e79174.js",
+    "runtime-main.js.map": "/customerslab/static/js/runtime-main.a7e79174.js.map",
+    "static/js/2.e16964c7.chunk.js": "/customerslab/static/js/2.e16964c7.chunk.js",
+    "static/js/2.e16964c7.chunk.js.map": "/customerslab/static/js/2.e16964c7.chunk.js.map",
+    "static/js/3.7cb82189.chunk.js": "/customerslab/static/js/3.7cb82189.chunk.js",
+    "static/js/3.7cb82189.chunk.js.map": "/customerslab/static/js/3.7cb82189.chunk.js.map",
+    "index.html": "/customerslab/index.html",
+    "static/css/main.7067bc91.chunk.css.map": "/customerslab/static/css/main.7067bc91.chunk.css.map",
+    "static/js/2.e16964c7.chunk.js.LICENSE.txt": "/customerslab/static/js/2.e16964c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e79174.js",
+    "static/js/2.e16964c7.chunk.js",
+    "static/css/main.7067bc91.chunk.css",
+    "static/js/main.849420dd.chunk.js"
+  ]
+}
